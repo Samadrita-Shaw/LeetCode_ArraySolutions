@@ -1,3 +1,5 @@
+/* More efficient code is in the other repository: Leetcode_Searching named FirstLastPosition. Do check that out. */
+
 package com.company;
 
 public class FirstLast_Position {
